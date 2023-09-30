@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Brandon Brownridge <br/><a href="https://www.linkedin.com/in/blbrownridge/">Aspiring Information Security Professional</a>
+
+<h2>Home Labs and Projects:</h2>
+
+- <b>Active Directory Set Up and Practice </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**BLBrownridge/BLBrownridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
