@@ -2,7 +2,7 @@
 
 <h2>Home Labs and Projects:</h2>
 
-- <b>Active Directory Set Up and Practice </b>
+- <b>Active Directory Set Up </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
