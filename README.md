@@ -1,4 +1,4 @@
-<h1>Brandon Brownridge <br/><a href="https://www.linkedin.com/in/blbrownridge/">Aspiring Information Security Professional</a>
+<h1>Brandon Brownridge <br/><a href="https://www.linkedin.com/in/blbrownridge/">Information Security Professional</a>
 
 <h2>Home Labs and Projects:</h2>
 
