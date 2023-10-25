@@ -5,9 +5,9 @@
 - <b>Active Directory Set Up </b>
   - [Setting up your Virtural Machine](https://github.com/BLBrownridge/Virtual-Machine-Setup-.git)
   - [Installing Windows Server 2019](https://github.com/BLBrownridge/Windows-Server-2019-Install)
-  - [Renaming the machine]()
+  - [Renaming the Machine]()
   - [Network Set Up]()
   - [Domain Set UP]()
   - [Making an Admin Account]()
-  - [Installing you RAS and NAT]()
-  - [Installing DHCP for furtue clients]()
+  - [Installing RAS and NAT]()
+  - [Installing DHCP]()
